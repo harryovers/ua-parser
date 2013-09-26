@@ -12,7 +12,7 @@ namespace ua_parser_console
     {
         static void Main(string[] args)
         {
-            String uaString = "Mozilla/5.0 (Linux; U; Android 4.0.4; en-gb; GT-I9300 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";
+            String uaString = "";//Mozilla/5.0 (Linux; U; Android 4.0.4; en-gb; GT-I9300 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30";
 
             Stopwatch sw = new Stopwatch();
             sw.Start();
