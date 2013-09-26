@@ -50,7 +50,10 @@ namespace ua_parser
 
         public Client Parse(String agentString)
         {
-            UserAgent ua = ParseUserAgent(agentString);
+			// make sure the useragent isn't null as it will blow up
+			if (agentString == null) agentString = "";
+
+			UserAgent ua = ParseUserAgent(agentString);
             OS os = ParseOS(agentString);
             Device device = deviceParser.Parse(agentString, (ua == null ? null : ua.family));
             return new Client(ua, os, device);

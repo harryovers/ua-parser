@@ -1,0 +1,9 @@
+C:\Users\Harry.Overs\Documents\GitHub\ua-parser\c-sharp\ua-parser\ua-parser\bin\Release\ua-parser.dll
+C:\Users\Harry.Overs\Documents\GitHub\ua-parser\c-sharp\ua-parser\ua-parser\bin\Release\ua-parser.pdb
+C:\Users\Harry.Overs\Documents\GitHub\ua-parser\c-sharp\ua-parser\ua-parser\bin\Release\YamlDotNet.Core.dll
+C:\Users\Harry.Overs\Documents\GitHub\ua-parser\c-sharp\ua-parser\ua-parser\bin\Release\YamlDotNet.RepresentationModel.dll
+C:\Users\Harry.Overs\Documents\GitHub\ua-parser\c-sharp\ua-parser\ua-parser\bin\Release\YamlDotNet.Core.pdb
+C:\Users\Harry.Overs\Documents\GitHub\ua-parser\c-sharp\ua-parser\ua-parser\bin\Release\YamlDotNet.RepresentationModel.pdb
+C:\Users\Harry.Overs\Documents\GitHub\ua-parser\c-sharp\ua-parser\ua-parser\obj\Release\ua-parser.csprojResolveAssemblyReference.cache
+C:\Users\Harry.Overs\Documents\GitHub\ua-parser\c-sharp\ua-parser\ua-parser\obj\Release\ua-parser.dll
+C:\Users\Harry.Overs\Documents\GitHub\ua-parser\c-sharp\ua-parser\ua-parser\obj\Release\ua-parser.pdb
